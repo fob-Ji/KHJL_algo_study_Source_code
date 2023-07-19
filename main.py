@@ -1,4 +1,5 @@
 # This is a sample Python script.
+from EighteenthWeek import prac23_ko_en_ma_score, prac24_antena, prac25_failure_rate, prac26_card_sort
 from EleventhWeek_Greedy import ex01_changes
 from FourteenthWeek import prac07_lucky_straight, prac08_string_rearrange, prac09_string_compression, prac11_snake
 from TwelfthWeek import q02_mulOrPlus, bj_sugarDelivery
@@ -71,5 +72,14 @@ if __name__ == '__main__':
     # directions = [[8, 'D'], [10, 'D'], [11, 'D'],[13,'L']]
 
 
-    prac11_snake.solution()
+    # prac11_snake.solution()
+    # prac23_ko_en_ma_score.solution()
+    # prac24_antena.solution()
+
+    # N = 5
+    # stages = [2, 1, 2, 6, 2, 4, 3, 3]
+    # N = 4
+    # stages = [4,4,4,4,4]
+    # prac25_failure_rate.solution(N,stages)
+    prac26_card_sort.solution()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
