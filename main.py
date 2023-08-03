@@ -2,7 +2,9 @@
 from EighteenthWeek import prac23_ko_en_ma_score, prac24_antena, prac25_failure_rate, prac26_card_sort
 from EleventhWeek_Greedy import ex01_changes
 from FourteenthWeek import prac07_lucky_straight, prac08_string_rearrange, prac09_string_compression, prac11_snake
+from NineteenthWeek import ex01_search_parts
 from TwelfthWeek import q02_mulOrPlus, bj_sugarDelivery
+from TwentythWeek import bj24041_sungsimdang
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
@@ -81,5 +83,7 @@ if __name__ == '__main__':
     # N = 4
     # stages = [4,4,4,4,4]
     # prac25_failure_rate.solution(N,stages)
-    prac26_card_sort.solution()
+    # prac26_card_sort.solution()
+    # ex01_search_parts.solution()
+    bj24041_sungsimdang.solution()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
