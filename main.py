@@ -6,6 +6,7 @@ from NineteenthWeek import ex01_search_parts
 from TwelfthWeek import q02_mulOrPlus, bj_sugarDelivery
 from TwentiethWeek import bj24041_sungsimdang
 from Twenty_fifth_week import bj4485_The_one_in_green_is_Zelda_right
+from Twenty_nineth_week import bj1260_DFS_BFS
 from Twenty_seventh_week import bj14261_mosol
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -89,5 +90,6 @@ if __name__ == '__main__':
     # ex01_search_parts.solution()
     # bj24041_sungsimdang.solution()
     # bj4485_The_one_in_green_is_Zelda_right.solution()
-    bj14261_mosol.solution()
+    # bj14261_mosol.solution()
+    bj1260_DFS_BFS.solution()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
