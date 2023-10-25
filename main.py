@@ -3,6 +3,7 @@ from EighteenthWeek import prac23_ko_en_ma_score, prac24_antena, prac25_failure_
 from EleventhWeek_Greedy import ex01_changes
 from FourteenthWeek import prac07_lucky_straight, prac08_string_rearrange, prac09_string_compression, prac11_snake
 from NineteenthWeek import ex01_search_parts
+from Thirtieth_two_week import bj9663_N_Queen
 from Thirtieth_week import bj16500_identify_string
 from TwelfthWeek import q02_mulOrPlus, bj_sugarDelivery
 from TwentiethWeek import bj24041_sungsimdang
@@ -93,5 +94,7 @@ if __name__ == '__main__':
     # bj4485_The_one_in_green_is_Zelda_right.solution()
     # bj14261_mosol.solution()
     # bj1260_DFS_BFS.solution()
-    bj16500_identify_string.solution()
+    # bj16500_identify_string.solution()
+
+    bj9663_N_Queen.solution()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
