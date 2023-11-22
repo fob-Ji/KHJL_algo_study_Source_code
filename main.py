@@ -4,6 +4,7 @@ from EleventhWeek_Greedy import ex01_changes
 from FourteenthWeek import prac07_lucky_straight, prac08_string_rearrange, prac09_string_compression, prac11_snake
 from NineteenthWeek import ex01_search_parts
 from Thirtieth_fifth_week import bj10986_sum_of_remain
+from Thirtieth_sixth_week import bj7579_app
 from Thirtieth_third_week import bj11444_Fibonacci
 from Thirtieth_two_week import bj9663_N_Queen
 from Thirtieth_week import bj16500_identify_string
@@ -100,5 +101,6 @@ if __name__ == '__main__':
 
     # bj9663_N_Queen.solution()
     # bj11444_Fibonacci.solution()
-    bj10986_sum_of_remain.solution()
+    # bj10986_sum_of_remain.solution()
+    bj7579_app.solution()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
