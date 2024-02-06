@@ -1,21 +1,6 @@
 # This is a sample Python script.
-from EighteenthWeek import prac23_ko_en_ma_score, prac24_antena, prac25_failure_rate, prac26_card_sort
-from EleventhWeek_Greedy import ex01_changes
-from FourteenthWeek import prac07_lucky_straight, prac08_string_rearrange, prac09_string_compression, prac11_snake
-from NineteenthWeek import ex01_search_parts
-from Thirtieth_eighth_week import bj1167_tree_diameter
-from Thirtieth_fifth_week import bj10986_sum_of_remain
-from Thirtieth_seventh_week import bj17298_right_bigger_number
-from Thirtieth_sixth_week import bj7579_app
-from Thirtieth_third_week import bj11444_Fibonacci
-from Thirtieth_two_week import bj9663_N_Queen
-from Thirtieth_week import bj16500_identify_string
-from TwelfthWeek import q02_mulOrPlus, bj_sugarDelivery
-from TwentiethWeek import bj24041_sungsimdang
-from Twenty_fifth_week import bj4485_The_one_in_green_is_Zelda_right
-from Twenty_nineth_week import bj1260_DFS_BFS
-from Twenty_seventh_week import bj14261_mosol
-from Second_week_of_January_24 import bj20303_halloween_bully
+from Twenty_Twenty_four_year.February.First_week_0206 import bj1516_game_develop
+from Twenty_Twenty_four_year.January.Fifth_week_0130 import bj2410_sum_of_powers_of_2
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
@@ -108,5 +93,7 @@ if __name__ == '__main__':
     # bj7579_app.solution()
     # bj17298_right_bigger_number.solution()
     # bj1167_tree_diameter.solution()
-    bj20303_halloween_bully.solution()
+    # bj20303_halloween_bully.solution()
+    # bj2410_sum_of_powers_of_2.solution()
+    bj1516_game_develop.solution()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
