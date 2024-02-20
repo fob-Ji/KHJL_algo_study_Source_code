@@ -1,5 +1,7 @@
 # This is a sample Python script.
 from Twenty_Twenty_four_year.February.First_week_0206 import bj1516_game_develop
+from Twenty_Twenty_four_year.February.Second_week_0213 import bj7569_tomato
+from Twenty_Twenty_four_year.February.Third_week_0220 import bj16509_general
 from Twenty_Twenty_four_year.January.Fifth_week_0130 import bj2410_sum_of_powers_of_2
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -95,5 +97,7 @@ if __name__ == '__main__':
     # bj1167_tree_diameter.solution()
     # bj20303_halloween_bully.solution()
     # bj2410_sum_of_powers_of_2.solution()
-    bj1516_game_develop.solution()
+    # bj1516_game_develop.solution()
+    # bj7569_tomato.solution()
+    bj16509_general.solution()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
