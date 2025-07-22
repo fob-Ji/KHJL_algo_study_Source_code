@@ -1,6 +1,6 @@
 # This is a sample Python script.
-from Year_2024.Month_12.Week_2 import Programmers_2021_kakao_advertisement
-
+# from Year_2024.Month_12.Week_2 import Programmers_2021_kakao_advertisement
+from Year_2025.Month_7.Week_4 import  Mon_Programmers_skill_check_lv1_2
 # from Twenty_Twenty_four_year.July import Programmers_2024_kakao_donut_graph, Programmers_pccp_oil_drilling
 #from Twenty_Twenty_four_year.July.Programmers_2024_kakao_donut_graph import solution
 # Press Shift+F10 to execute it or replace it with your code.
@@ -144,8 +144,9 @@ if __name__ == '__main__':
     # b = 2
     # fares = [[4, 1, 10], [3, 5, 24], [5, 6, 2], [3, 1, 41], [5, 1, 24], [4, 6, 50], [2, 4, 66], [2, 3, 22], [1, 6, 25]]
     # Programmers_2021_kakao_taxi_fare.solution(n,s,a,b,fares)
-    play_time = "99:59:59"
-    adv_time = "25:00:00"
-    logs = ["69:59:59-89:59:59", "01:00:00-21:00:00", "79:59:59-99:59:59", "11:00:00-31:00:00"]
-    Programmers_2021_kakao_advertisement.solution(play_time, adv_time, logs)
+    # play_time = "99:59:59"
+    # adv_time = "25:00:00"
+    # logs = ["69:59:59-89:59:59", "01:00:00-21:00:00", "79:59:59-99:59:59", "11:00:00-31:00:00"]
+    # Programmers_2021_kakao_advertisement.solution(play_time, adv_time, logs)
+    Mon_Programmers_skill_check_lv1_2.solution([30, 15],[26, 17])
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
