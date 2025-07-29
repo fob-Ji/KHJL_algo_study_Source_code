@@ -1,8 +1,11 @@
 # This is a sample Python script.
 # from Year_2024.Month_12.Week_2 import Programmers_2021_kakao_advertisement
-from Year_2025.Month_7.Week_4 import  Mon_Programmers_skill_check_lv1_2
 # from Twenty_Twenty_four_year.July import Programmers_2024_kakao_donut_graph, Programmers_pccp_oil_drilling
 #from Twenty_Twenty_four_year.July.Programmers_2024_kakao_donut_graph import solution
+from Year_2025.Month_7.Week_4 import Fri_Programmers_skill_check_lv2_1
+from Year_2025.Month_7.Week_4 import Fri_Programmers_skill_check_lv2_2_REQ
+from Year_2025.Month_7.Week_5 import Tue_Programmers_skill_check_lv2_1_REQ
+from Year_2025.Month_7.Week_5 import Tue_Programmers_skill_check_lv2_2_REQ
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
@@ -148,5 +151,9 @@ if __name__ == '__main__':
     # adv_time = "25:00:00"
     # logs = ["69:59:59-89:59:59", "01:00:00-21:00:00", "79:59:59-99:59:59", "11:00:00-31:00:00"]
     # Programmers_2021_kakao_advertisement.solution(play_time, adv_time, logs)
-    Mon_Programmers_skill_check_lv1_2.solution([30, 15],[26, 17])
+    # Tue_Programmers_skill_check_lv1_2.solution([30, 15],[26, 17])
+    # Fri_Programmers_skill_check_lv2_1.solution(10,2)
+    # print(Fri_Programmers_skill_check_lv2_2.solution(20,1,10000001))
+    # print(Tue_Programmers_skill_check_lv2_1.solution("b+","ab"))
+    Tue_Programmers_skill_check_lv2_2.solution(5,[2,1,1,1,0,0,0,0,0,0,0])
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
